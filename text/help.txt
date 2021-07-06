@@ -1,0 +1,14 @@
+Click Start to choose between the Simulation and the Derivation. Click on the picture to select either one.
+
+The simulation will open a new window.
+Start will cause the simulation to start.
+Pause will pause the simulation.
+Trail will show the path that the alpha particles take.
+To select the foil and mica sheets, you must click pause and click the restart button.
+To exit the simulation, click X in the top right.
+
+The derivation contains pictures of how the Rutherford scattering formula was derived.
+
+Sources page has links to websites I have used for information. You can highlight and copy the links.
+
+Quit will close the entire program.
